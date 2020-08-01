@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>T&amp;CND Development Team</Authors>
+    <Company>T&amp;CND</Company>
+    <Description>Contains a Extension Method that Sanitizes all the string properties on the object.
+Wraps the HtmlSanitizer NuGet Package (https://www.nuget.org/packages/HtmlSanitizer/)</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/amiscala/Object.Sanitize</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/amiscala/Object.Sanitize</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
