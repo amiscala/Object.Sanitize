@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object.Sanitize.Extension", "Object.Sanitize.Extension\Object.Sanitize.Extension.csproj", "{758749EA-E15E-489E-9955-9B1B96EFCB33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{AB0E3B23-AE02-4A0E-A8A0-C9275D73FB5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{758749EA-E15E-489E-9955-9B1B96EFCB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{758749EA-E15E-489E-9955-9B1B96EFCB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{758749EA-E15E-489E-9955-9B1B96EFCB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0E3B23-AE02-4A0E-A8A0-C9275D73FB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0E3B23-AE02-4A0E-A8A0-C9275D73FB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0E3B23-AE02-4A0E-A8A0-C9275D73FB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0E3B23-AE02-4A0E-A8A0-C9275D73FB5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
